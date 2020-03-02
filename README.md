@@ -29,6 +29,7 @@ pip3 install demjson
 - 需要预先在服务器上安装各种语言的编译器，并将其路径加入到 PATH 中。开发测试的时候建议使用 Mac 电脑，可以一次性便捷安装所有的编译环境。
 - Mac 操作系统需要安装 Xcode Command Line Tools 。
 - 需要手动在项目根目录（与Templates平行）下创建log文件夹
+- 需要在BackGround文件夹下手动创建migrations文件夹
 
 ### 运行程序
 初始化数据库
